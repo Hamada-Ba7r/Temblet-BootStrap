@@ -1,0 +1,47 @@
+header {
+  background: linear-gradient(rgba(20, 20, 20, 0.7), rgba(20, 20, 20, 0.7)),
+    url(img/bg-hero.jpg);
+  height: 100vh;
+}
+.mm {
+  top: 0;
+  right: 170px;
+  bottom: 0;
+  width: 150px;
+}
+.mmm {
+  outline: none;
+}
+.img-1 {
+  top: 5px;
+  left: 5px;
+  padding: 7px;
+  background-color: white;
+}
+.img-2 {
+  bottom: 5px;
+  right: 5px;
+  padding: 7px;
+  background-color: white;
+}
+.destination .dec {
+  height: 550px;
+}
+.iconss {
+  right: 20px;
+  bottom: 100px;
+}
+.moon {
+  cursor: pointer;
+}
+.sun {
+  display: none;
+  cursor: pointer;
+}
+.dark {
+  background-color: black;
+  color: white;
+}
+.dark .about-us {
+  color: #eee;
+}
